@@ -1,0 +1,1 @@
+include ':app', 'com.facebook.android:facebook', ':android-async-http-1.4.6'
